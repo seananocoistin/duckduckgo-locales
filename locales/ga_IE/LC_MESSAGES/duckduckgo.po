@@ -1429,19 +1429,19 @@ msgstr "Bí páirteach ann"
 
 msgctxt "SERP footer content"
 msgid "Get New Themes"
-msgstr ""
+msgstr "Faigh téamaí nua"
 
 msgctxt "showcase_app"
 msgid "Get Our App & Extension"
-msgstr ""
+msgstr "Faigh ár bhfeidhmchláirín & Breiseán"
 
 msgctxt "showcase_privacy"
 msgid "Get Privacy Tips"
-msgstr ""
+msgstr "Faigh leideanna príobháideachais"
 
 msgctxt "SERP footer content"
 msgid "Get Started at Duck.com"
-msgstr ""
+msgstr "Tosaigh ar Duck.com"
 
 msgid "Get Web links"
 msgstr "Faigh naisc ghréasáin"
@@ -1455,7 +1455,7 @@ msgstr "Faigh an t-amhrán seo ar:"
 
 msgctxt "SERP footer content"
 msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
-msgstr ""
+msgstr "Téigh níos tapa chuig DuckDuckGo. Roinn duck.com le do chuid cairde."
 
 msgctxt "spread_badge"
 msgid "Get your friends to switch and help us grow!"
@@ -1531,14 +1531,14 @@ msgstr "Cabhair"
 
 msgctxt "settings"
 msgid "Help Improve DuckDuckGo"
-msgstr ""
+msgstr "Cabhraigh chun DuckDuckGo a fheabhsú"
 
 msgctxt "SERP footer content"
 msgid "Help Spread DuckDuckGo"
-msgstr ""
+msgstr "Cabhraigh chun DuckDuckGo a scaipeadh"
 
 msgid "Help Spread Privacy"
-msgstr ""
+msgstr "Cabhraigh an príobháideachas a scaipeadh"
 
 msgctxt "SERP footer content"
 msgid "Help us raise the standard of trust online."
@@ -1546,11 +1546,11 @@ msgstr ""
 
 msgctxt "showcase_spread"
 msgid "Help your friends and family join the Duck Side!"
-msgstr ""
+msgstr "Cabhraigh le do chairde agus do mhuintir chun dul i dtuilleamaí Duck!"
 
 msgctxt "showcase_aria_dropdown"
 msgid "Here are some things that we made that you might like."
-msgstr ""
+msgstr "Seo roinnt rudaí a shíleamar go dtaitneodh leat."
 
 #. "Hide pass phrase" appears in the Load Cloud Settings box: http://i.imgur.com/24xv6L8.png  
 msgctxt "settings"
@@ -1563,7 +1563,7 @@ msgstr ""
 
 msgctxt "video-resolution"
 msgid "High Definition"
-msgstr ""
+msgstr "Ardghléanacht"
 
 #. <em>ky</em>'s label for one of the color settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Highlight:"
@@ -1579,7 +1579,7 @@ msgid "Homepage Privacy Tips"
 msgstr ""
 
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Cong"
 
 msgctxt "maps_places"
 msgid "Hours"
@@ -1623,7 +1623,7 @@ msgid "Humidity"
 msgstr ""
 
 msgid "Hungary"
-msgstr ""
+msgstr "An Ungáir"
 
 #. Title for the stuff explaining <em>how DuckDuckGo <strong>REALLY doesn't</strong> track you</em>.
 #. From the <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -2459,7 +2459,7 @@ msgstr "Seirbhísí Ar An nGréasán"
 
 msgctxt "new user poll"
 msgid "Online article"
-msgstr ""
+msgstr "Alt ar an ngréasán"
 
 #. http://i.imgur.com/1Ri3uHl.png
 msgctxt "cloudsave"
@@ -2478,7 +2478,7 @@ msgstr ""
 
 msgctxt "mobile homepage banner"
 msgid "Open %sMenu%s"
-msgstr ""
+msgstr "Oscail an %sRoghchlár%s"
 
 msgid "Open %sSettings > Safari > Search Engine%s and select DuckDuckGo!"
 msgstr ""
@@ -2500,7 +2500,7 @@ msgid "Open Links in a New Tab"
 msgstr "Fuinneog Nua"
 
 msgid "Open Map"
-msgstr ""
+msgstr "Oscail an léarscáil"
 
 msgid "Open Settings"
 msgstr "Oscail na Socruithe"
@@ -2510,7 +2510,7 @@ msgstr "Oscail cluaisín nó fuinneog nua"
 
 msgctxt "open_in_third_party_app"
 msgid "Open in %s"
-msgstr ""
+msgstr "Oscail i %s"
 
 #. http://i.imgur.com/MnvQ0IK.png
 msgctxt "settingsvalue"
@@ -2525,11 +2525,11 @@ msgstr "Osclaíonn sé torthaí i bhfuinneoga/gcluaisíní nua"
 
 msgctxt "feedback form"
 msgid "Optional"
-msgstr ""
+msgstr "Roghnach"
 
 msgctxt "maps_maps_module"
 msgid "Or did you mean:"
-msgstr ""
+msgstr "Nó an é seo a bhí ar intinn agat:"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Orange"
@@ -2537,14 +2537,14 @@ msgstr "Flannbhuí"
 
 msgctxt "color"
 msgid "Orange"
-msgstr ""
+msgstr "Flannbhuí"
 
 msgctxt "feedback form"
 msgid "Other"
 msgstr "Eile"
 
 msgid "Other Settings"
-msgstr ""
+msgstr "Socruithe eile"
 
 msgctxt "homepage onboarding"
 msgid ""
@@ -2640,7 +2640,7 @@ msgid "Past Year"
 msgstr "Bhliain Seo Caite"
 
 msgid "Peru"
-msgstr ""
+msgstr "Peiriú"
 
 msgid "Philippines"
 msgstr ""
@@ -2650,7 +2650,7 @@ msgstr ""
 
 msgctxt "maps_places"
 msgid "Phone"
-msgstr ""
+msgstr "Guthán"
 
 msgctxt "maps_places"
 msgid "Phone Number"
@@ -2658,7 +2658,7 @@ msgstr "Uimhir ghutháin"
 
 msgctxt "image-type"
 msgid "Photograph"
-msgstr ""
+msgstr "Grianghraf"
 
 msgctxt "feedback form"
 msgid "Pick a category"
@@ -2666,7 +2666,7 @@ msgstr "Roghnaigh catagóir"
 
 msgctxt "feedback form"
 msgid "Pick a specific problem"
-msgstr ""
+msgstr "Roghnaigh fadhb shonrach"
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Pink"
@@ -2674,7 +2674,7 @@ msgstr "Bándearg"
 
 msgctxt "color"
 msgid "Pink"
-msgstr ""
+msgstr "Bándearg"
 
 msgctxt "feedback form"
 msgid "Place(s)"
@@ -2696,7 +2696,7 @@ msgstr "Roghnaigh críoch le do thoil"
 
 msgctxt "new user poll"
 msgid "Please select one option."
-msgstr ""
+msgstr "Roghnaigh rogha amháin."
 
 msgctxt "feedback form"
 msgid "Please specify..."
@@ -2710,14 +2710,14 @@ msgid "Plugin suggestions?"
 msgstr "Moltaí i gcomhair breiseáin?"
 
 msgid "Poland"
-msgstr ""
+msgstr "An Pholainn"
 
 #. Menu point on the main DuckDuckGo menu, can be seen on all pages. (Links to <a href="https://duckduckgo.com/privacy">privacy</a> page)
 msgid "Policy"
 msgstr "Beartas"
 
 msgid "Portugal"
-msgstr ""
+msgstr "An Phortaingéil"
 
 msgctxt "settings"
 msgid "Preferred units of measure"
@@ -2785,7 +2785,7 @@ msgid "Privacy, simplified."
 msgstr ""
 
 msgid "Private Search"
-msgstr ""
+msgstr "Cuardach príobháideach"
 
 msgctxt "attribution"
 msgid "Producer"
@@ -2810,10 +2810,10 @@ msgstr ""
 
 msgctxt "showcase_privacy"
 msgid "Protect Your Devices"
-msgstr ""
+msgstr "Cosain do chuid gléasanna"
 
 msgid "Protect Your Privacy!"
-msgstr ""
+msgstr "Cosain do phríobháideachas"
 
 msgctxt "showcase_app"
 msgid "Protect your data on every device."
@@ -2825,7 +2825,7 @@ msgstr "Corcra"
 
 msgctxt "color"
 msgid "Purple"
-msgstr ""
+msgstr "Corcra"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box - http://i.imgur.com/FbCoYVE.png
@@ -2847,10 +2847,10 @@ msgstr "Comharthaí athfhriotail"
 
 msgctxt "new user poll"
 msgid "Radio or podcast"
-msgstr ""
+msgstr "Craolachán nó podchraoladh"
 
 msgid "Read More"
-msgstr ""
+msgstr "Léigh tuilleadh"
 
 msgctxt "SERP footer content"
 msgid "Read about how Google influences what people click."
@@ -2861,7 +2861,7 @@ msgstr "Nuacht le déanaí"
 
 msgctxt "region filter"
 msgid "Recent:"
-msgstr ""
+msgstr "Le déanaí:"
 
 #. Instant Answer Tab Name
 msgid "Recipes"
@@ -2873,10 +2873,10 @@ msgstr "Dearg"
 
 msgctxt "color"
 msgid "Red"
-msgstr ""
+msgstr "Dearg"
 
 msgid "Reddit"
-msgstr ""
+msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
@@ -3004,25 +3004,25 @@ msgid "Reviews"
 msgstr "Léirmheasanna"
 
 msgid "Romania"
-msgstr ""
+msgstr "An Rómáin"
 
 msgid "Russia"
-msgstr ""
+msgstr "An Rúis"
 
 msgctxt "forecast"
 msgid "S"
-msgstr ""
+msgstr "D"
 
 msgctxt "forecast"
 msgid "SE"
-msgstr ""
+msgstr "OD"
 
 msgctxt "forecast"
 msgid "SW"
-msgstr ""
+msgstr "ID"
 
 msgid "Safe Search"
-msgstr ""
+msgstr "Cuardach slán"
 
 #. http://i.imgur.com/hcN6sIA.png
 msgctxt "settings"
@@ -3072,7 +3072,7 @@ msgstr "Cuir do chuid socruithe i dtaisce go neamhaithnid sa scamall"
 
 msgctxt "SERP footer content"
 msgid "Say Goodbye To Google"
-msgstr ""
+msgstr "Abair slán le Google"
 
 #. Needs Context
 msgid "Score"
@@ -3104,7 +3104,7 @@ msgstr "Bosca Cuardaigh"
 
 msgctxt "feedback form"
 msgid "Search Box"
-msgstr ""
+msgstr "Bosca cuardaigh"
 
 msgctxt "settings"
 msgid "Search Button Background"
@@ -3117,7 +3117,7 @@ msgid "Search Options"
 msgstr "Roghanna cuardaithe"
 
 msgid "Search Results"
-msgstr ""
+msgstr "Torthaí cuardaigh"
 
 #. Le terme apparait en survolant le terme "More from ..." sur la page de résultats.
 msgid "Search domain %s"
@@ -3148,7 +3148,7 @@ msgstr "Ar bhfuil eolas maidir lenár gcóras comhrá XMPP á lorg agat?"
 
 msgctxt "feedback form"
 msgid "Security Issue"
-msgstr ""
+msgstr "Fadhb slándála"
 
 msgctxt "feedback form"
 msgid "Security Issue (Opens in New Tab)"
@@ -3160,7 +3160,7 @@ msgid "See Also"
 msgstr "Féach Freisin"
 
 msgid "See Photos"
-msgstr ""
+msgstr "Féach ar an grianghraif"
 
 msgid "See more photos of %s"
 msgstr ""
@@ -3306,7 +3306,7 @@ msgstr "Socruithe"
 
 msgctxt "feedback form"
 msgid "Settings"
-msgstr ""
+msgstr "Socruithe"
 
 #. http://i.imgur.com/uzNLMwE.png 
 #. Your DuckDuckGo settings as JSON parameters (https://en.wikipedia.org/wiki/JSON) 
@@ -3325,7 +3325,7 @@ msgstr "Ceannacht"
 
 msgctxt "video-duration"
 msgid "Short"
-msgstr ""
+msgstr "Gearr"
 
 msgid "Shortcuts to other sites to search off DuckDuckGo"
 msgstr ""
@@ -3471,10 +3471,10 @@ msgid "Size:"
 msgstr "Méid:"
 
 msgid "Slovakia"
-msgstr ""
+msgstr "An tSlóvaic"
 
 msgid "Slovenia"
-msgstr ""
+msgstr "An tSlóivéin"
 
 #. http://i.imgur.com/JDDRzkk.png
 msgctxt "settingsvalue"
@@ -3506,13 +3506,13 @@ msgid "Source:"
 msgstr "Foinse:"
 
 msgid "South Africa"
-msgstr ""
+msgstr "An Afraic Theas"
 
 msgid "Spain"
-msgstr ""
+msgstr "An Spáinn"
 
 msgid "Spain (ca)"
-msgstr ""
+msgstr "An Spáinn (ca)"
 
 #. http://i.imgur.com/VJjl9zo.png
 msgid "Spread"
@@ -3520,18 +3520,18 @@ msgstr "Scaip an Focal"
 
 msgctxt "showcase_spread"
 msgid "Spread DuckDuckGo"
-msgstr ""
+msgstr "Scaip DuckDuckGo"
 
 msgctxt "image-layout"
 msgid "Square"
-msgstr ""
+msgstr "Cearnógach"
 
 msgctxt "video-resolution"
 msgid "Standard Definition"
 msgstr ""
 
 msgid "Start Searching"
-msgstr ""
+msgstr "Tosaigh ag cuardach"
 
 msgctxt "showcase_bangs"
 msgid "Start Using Bangs"
@@ -3554,11 +3554,11 @@ msgstr "Coimeádann sé i dtaisce an limistéar roimhe a shocraíodh"
 
 msgctxt "safe search"
 msgid "Strict"
-msgstr ""
+msgstr "Dian"
 
 msgctxt "settingsvalue"
 msgid "Strict"
-msgstr ""
+msgstr "Dian"
 
 #. in https://duckduckgo.com/newbang appears in the error message:
 #. e.g.:
@@ -3594,7 +3594,7 @@ msgstr "Mol nath éagsúil"
 
 msgctxt "noresults"
 msgid "Suggestions:"
-msgstr ""
+msgstr "Moltaí"
 
 #. http://i.imgur.com/FczLkAL.png
 msgctxt "settingsvalue"
@@ -3610,14 +3610,14 @@ msgid "Support"
 msgstr "Tacaíocht"
 
 msgid "Sweden"
-msgstr ""
+msgstr "An tSualainn"
 
 msgid "Switch to %s"
 msgstr "Athraigh chuig %s"
 
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo"
-msgstr ""
+msgstr "Athraigh chuig DuckDuckGo"
 
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo and take back your privacy!"
@@ -3647,7 +3647,7 @@ msgid "Take Back Your Privacy!"
 msgstr "Bíodh neart agat ar do Phríobháideachas!"
 
 msgid "Take back your privacy!"
-msgstr ""
+msgstr "Bíodh neart agat ar do phríobháideachas!"
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "Take control of your personal data."
@@ -3655,7 +3655,7 @@ msgstr ""
 
 msgctxt "image-layout"
 msgid "Tall"
-msgstr ""
+msgstr "Ard"
 
 #. It's a color, if you are confused. See <a href="http://en.wikipedia.org/wiki/Tan_(color)">http://en.wikipedia.org/wiki/Tan_(color)</a>
 msgid "Tan"
@@ -3680,7 +3680,7 @@ msgid "Text:"
 msgstr "Téacs:"
 
 msgid "Thailand"
-msgstr ""
+msgstr "An Téalann"
 
 msgid "Thank you!"
 msgstr "Go raibh maith agat"
@@ -3829,7 +3829,7 @@ msgstr "Aistrigh"
 
 msgctxt "image-type"
 msgid "Transparent"
-msgstr ""
+msgstr "Trédhearcach"
 
 #. Alternate header text for front page
 msgid "Try a search!"
@@ -3860,7 +3860,7 @@ msgid "Trying DuckDuckGo again"
 msgstr ""
 
 msgid "Turkey"
-msgstr ""
+msgstr "An Tuirc"
 
 msgid "Turn Off Region"
 msgstr "Múch an Críoch"
@@ -3870,7 +3870,7 @@ msgid "Turn off:"
 msgstr "Múch:"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Type %sDuckDuckGo%s in the first %sform field"
 msgstr ""
@@ -3949,16 +3949,16 @@ msgstr "Cuir líne faoi:"
 
 #. Instant Answer tab name
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "United Kingdom"
-msgstr ""
+msgstr "An Ríocht Aontaithe"
 
 msgid "United States"
-msgstr ""
+msgstr "Na Stáit Aontaithe"
 
 msgid "United States (es)"
-msgstr ""
+msgstr "Na Stáit Aontaithe (es)"
 
 msgctxt "settings"
 msgid "Units of Measure"
@@ -3970,7 +3970,7 @@ msgstr ""
 
 #. This is a verb and will be concatenated with a noun in dropdown boxes, e.g. "Use xyz". The text was previously "Using".
 msgid "Use"
-msgstr ""
+msgstr "Bain feidhm as"
 
 msgctxt "useus"
 msgid "Use"
@@ -3990,7 +3990,7 @@ msgid "Use encrypted version of the site"
 msgstr "Bain feidhm as an leagan criptithe den suíomh"
 
 msgid "Use in Firefox"
-msgstr ""
+msgstr "Bain feidhm as in Firefox"
 
 msgid "Use in Safari"
 msgstr "Bain feidhm as i Safari"
@@ -4005,7 +4005,7 @@ msgid "Videos"
 msgstr "Físeáin"
 
 msgid "Vietnam"
-msgstr ""
+msgstr "Vítneam"
 
 msgid "View all !bangs"
 msgstr "Féach gach !bang"
@@ -4014,11 +4014,11 @@ msgid "View file"
 msgstr "Féach ar an gcomhad"
 
 msgid "View on %s"
-msgstr ""
+msgstr "Féách air ar %s"
 
 msgctxt "maps_maps_module"
 msgid "View on Map"
-msgstr ""
+msgstr "Féach air ar Léarscáil"
 
 msgctxt "mobile promotion on desktop"
 msgid ""
@@ -4032,11 +4032,11 @@ msgstr "Naisc ar a thug tú cuairt:"
 
 msgctxt "forecast"
 msgid "W"
-msgstr ""
+msgstr "I"
 
 msgctxt "size"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Cúlbhrat"
 
 #. in https://duckduckgo.com/feedback under "DuckDuckHack" header
 msgid "Want to develop an instant answer?"
@@ -4173,15 +4173,15 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo. It really helps."
-msgstr ""
+msgstr "Bainimíd feidhm as aiseolas den chineál sin chun feabhas a chur ar DuckDuckGo. Cabhraíonn sé go mór."
 
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
-msgstr ""
+msgstr "Is díol áthais dúinn go bhfuil tú i dtuilleamaí Duck"
 
 msgctxt "SERP footer content"
 msgid "We've got some more links for you!"
-msgstr ""
+msgstr "Tá tuilleadh naisc againn duit!"
 
 #. Instant Answer Tab Name
 msgid "Weather"
@@ -4193,19 +4193,19 @@ msgstr "Naisc ghréasáin"
 
 msgctxt "settings"
 msgid "Welcome Message"
-msgstr ""
+msgstr "Teachtaireacht fáilte"
 
 msgctxt "new user poll"
 msgid "Welcome back!"
-msgstr ""
+msgstr "Fáilte ar ais"
 
 msgctxt "homepage onboarding"
 msgid "Welcome to the Duck Side!"
-msgstr ""
+msgstr "Fáilte go Duck!"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
-msgstr ""
+msgstr "Cad a thug ar ais anseo thú inniu?"
 
 msgctxt "feedback form"
 msgid "What could be better?"
@@ -4256,13 +4256,13 @@ msgstr "Bán"
 
 msgctxt "color"
 msgid "White"
-msgstr ""
+msgstr "Bán"
 
 msgid "Who We Are"
-msgstr ""
+msgstr "Cé Sinne"
 
 msgid "Why Privacy"
-msgstr ""
+msgstr "Cad Chuige Príobháideachas"
 
 msgctxt "image-layout"
 msgid "Wide"
@@ -4284,11 +4284,11 @@ msgstr "Leithead:"
 
 msgctxt "feedback form"
 msgid "Wikipedia Info"
-msgstr ""
+msgstr "Eolas Vicipéide"
 
 msgctxt "forecast"
 msgid "Wind"
-msgstr ""
+msgstr "Gaoth"
 
 #. https://duckduckgo.com/feedback under "Community Platform" header
 msgid "Would you like to help develop the platform?"
@@ -4300,7 +4300,7 @@ msgstr "Buí"
 
 msgctxt "color"
 msgid "Yellow"
-msgstr ""
+msgstr "Buí"
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. Then at the bottom of the cloud save box - http://i.imgur.com/U73iTqu.png
@@ -4422,7 +4422,7 @@ msgstr ""
 
 msgctxt "new user poll"
 msgid "Your response is 100% anonymous."
-msgstr ""
+msgstr "Tá d'fhreagra 100% anaithnid."
 
 #. From the guide in the Feedback page.
 msgid "advertising"
@@ -4510,7 +4510,7 @@ msgid "this help page"
 msgstr "cabhair an leathanaigh seo"
 
 msgid "too many search terms"
-msgstr ""
+msgstr "an iomarca téarma cuardaigh"
 
 #. Link on the homepage in the context of the No Tracking and donttrack.us
 msgctxt "donttrackus"
