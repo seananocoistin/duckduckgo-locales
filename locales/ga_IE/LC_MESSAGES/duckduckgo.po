@@ -38,7 +38,7 @@ msgstr "%s lá ó shin"
 #. An indication that inputted text was detected to be in this language
 msgctxt "translations_module"
 msgid "%s detected"
-msgstr ""
+msgstr "%s braite"
 
 #. in https://duckduckgo.com/params. multiple fors
 msgid "%s for %s"
@@ -102,15 +102,15 @@ msgstr "%sFoghlaim Tuilleadh%s."
 
 msgctxt "precise_user_location"
 msgid "%sLearn how we keep your location private%s."
-msgstr ""
+msgstr "%sCuir eolas ar an gcaoi a dhéantar mar a bhfuil tú a choinneáil príobháideach%s."
 
 msgctxt "precise_user_location"
 msgid "%sReload%s DuckDuckGo, and try again."
-msgstr ""
+msgstr "%sAthluchtaigh%s DuckDuckGo, agus féach arís é."
 
 msgctxt "noresults"
 msgid "%sReset filters %s"
-msgstr ""
+msgstr "%sAthshocraigh na scagairí %s"
 
 msgid "%sRight click%s in the search bar"
 msgstr "%sDeaschliceáil%s sa mbarra cuardaigh"
@@ -208,7 +208,7 @@ msgstr "Cuir bosca cuardaigh de chuid %s le do shuíomh!"
 
 msgctxt "directions"
 msgid "Add a starting point and destination to find a route."
-msgstr ""
+msgstr "Cuir isteach ceann tosaigh agus ceann scríbe chun bealach a aimsiú."
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
@@ -249,7 +249,7 @@ msgstr "Fógraí:"
 #. The name of the Afrikaans language
 msgctxt "language_name"
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afracáinis"
 
 msgid "After it downloads and opens, click %sInstall%s"
 msgstr "Tar éis dó íosluchtú agus oscailt, brúigh %sSuiteáil%s"
@@ -263,7 +263,7 @@ msgstr ""
 #. The name of the Albanian language
 msgctxt "language_name"
 msgid "Albanian"
-msgstr ""
+msgstr "Albáinis"
 
 msgid "All"
 msgstr "Uile"
@@ -271,7 +271,7 @@ msgstr "Uile"
 #. a filter for any image with a Creative Commons usage license
 msgctxt "image-licence"
 msgid "All Creative Commons"
-msgstr ""
+msgstr "Creative Commons uile"
 
 #. 'license' as in 'permission to use, share, or modify a work'
 msgctxt "image-licence"
@@ -383,7 +383,7 @@ msgstr "Ceadúnas ar bith"
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
 msgid "Any resolution"
-msgstr "Taifeachh ar bith"
+msgstr "Taifeach ar bith"
 
 msgid "Any time"
 msgstr "Am ar bith"
@@ -416,7 +416,7 @@ msgstr "Feidhmchláiríní"
 #. The name of the Arabic language
 msgctxt "language_name"
 msgid "Arabic"
-msgstr ""
+msgstr "Araibis"
 
 msgctxt "feedback form"
 msgid "Are these ads helpful?"
@@ -2240,7 +2240,7 @@ msgstr "Éire"
 #. The name of the Irish language
 msgctxt "language_name"
 msgid "Irish"
-msgstr ""
+msgstr "Gaeilge"
 
 #. Title for information about this question. The answer is only <strong>YES</strong>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>.
@@ -2266,7 +2266,7 @@ msgstr ""
 #. The name of the Italian language
 msgctxt "language_name"
 msgid "Italian"
-msgstr ""
+msgstr "Iodáilis"
 
 msgid "Italy"
 msgstr "An Iodáil"
@@ -2287,7 +2287,7 @@ msgstr "An tSeapáin"
 #. The name of the Japanese language
 msgctxt "language_name"
 msgid "Japanese"
-msgstr ""
+msgstr "Seapáinis"
 
 #. Instant Answer Tab Name (below the search box, above the results)
 msgid "Jobs"
@@ -2331,12 +2331,12 @@ msgstr ""
 #. The name of the Klingon (Latin) language
 msgctxt "language_name"
 msgid "Klingon (Latin)"
-msgstr ""
+msgstr "Klingon (Laidineach)"
 
 #. The name of the Klingon (pIqaD) language
 msgctxt "language_name"
 msgid "Klingon (pIqaD)"
-msgstr ""
+msgstr "Klingon (pIqaD)"
 
 msgid "Korea"
 msgstr "An Chóiré"
@@ -2344,17 +2344,17 @@ msgstr "An Chóiré"
 #. The name of the Korean language
 msgctxt "language_name"
 msgid "Korean"
-msgstr ""
+msgstr "Cóiréis"
 
 #. The name of the Kurdish (Central) language
 msgctxt "language_name"
 msgid "Kurdish (Central)"
-msgstr ""
+msgstr "Coirdis (Lárnach)"
 
 #. The name of the Kurdish (Northern) language
 msgctxt "language_name"
 msgid "Kurdish (Northern)"
-msgstr ""
+msgstr "Coirdis (Tuaisceartach)"
 
 #. http://i.imgur.com/L74c87B.png
 #. Adjusts the displayed language of DuckDuckGo (translations)
@@ -2370,7 +2370,7 @@ msgstr ""
 #. The name of the Lao language
 msgctxt "language_name"
 msgid "Lao"
-msgstr ""
+msgstr "Láóis"
 
 #. http://i.imgur.com/6jwHONe.png
 msgctxt "settingsvalue"
@@ -2409,7 +2409,7 @@ msgstr "An Laitvia"
 #. The name of the Latvian language
 msgctxt "language_name"
 msgid "Latvian"
-msgstr ""
+msgstr "Laitvis"
 
 #. Button that opens more informations in the new messagebox suggesting to add DDG, in the homepage.
 msgid "Learn %sMore%s"
@@ -3470,13 +3470,13 @@ msgstr "Nuachtlitir Príobháideachais"
 
 msgctxt "settings"
 msgid "Privacy Newsletters"
-msgstr ""
+msgstr "Nuachtlitreacha maidir le príobháideachas"
 
 msgid "Privacy Policy"
 msgstr "An Beartas Príobháideachais"
 
 msgid "Privacy Protection For Any Device"
-msgstr ""
+msgstr "Cosaint phríobháideachais do ghléas ar bith"
 
 #. https://duckduckgo.com/params. it is a bold header
 msgid "Privacy Settings"
@@ -3518,11 +3518,11 @@ msgstr "Táirgeoir"
 
 msgctxt "feedback form"
 msgid "Product ad content is deceptive"
-msgstr ""
+msgstr "Tá an táirge agus an t-inneachar cealgach"
 
 msgctxt "feedback form"
 msgid "Product ad pricing is misleading"
-msgstr ""
+msgstr "Tá na luachanna san fhógra don táirge míthreorach"
 
 msgctxt "feedback form"
 msgid "Product ads aren't relevant"
@@ -3574,7 +3574,7 @@ msgstr "Corcra"
 #. The name of the Querétaro Otomi language
 msgctxt "language_name"
 msgid "Querétaro Otomi"
-msgstr ""
+msgstr "Querétaro Otomi"
 
 #. Instant Answer Tab Name
 msgid "Quotations"
@@ -3624,7 +3624,7 @@ msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (When Necessary)"
-msgstr ""
+msgstr "Atreoraigh (nuair is gá)"
 
 msgid "Redirect:"
 msgstr "Atreoraigh:"
@@ -3741,7 +3741,7 @@ msgstr "Torthaí"
 #. Displays the selected location results, e.g.: Results near <Paris France 75004>
 msgctxt "precise_user_location"
 msgid "Results near"
-msgstr ""
+msgstr "Torthaí in aice le"
 
 #. http://i.imgur.com/OODM0bR.png
 #. Selecting "Retro" will change the look and layout of DuckDuckGo to resemble the old site: http://i.imgur.com/toYUxqn.png
@@ -3767,7 +3767,7 @@ msgstr "An Rómáin"
 #. The name of the Romanian language
 msgctxt "language_name"
 msgid "Romanian"
-msgstr ""
+msgstr "Rómáinis"
 
 msgid "Russia"
 msgstr "An Rúis"
@@ -3775,7 +3775,7 @@ msgstr "An Rúis"
 #. The name of the Russian language
 msgctxt "language_name"
 msgid "Russian"
-msgstr ""
+msgstr "Rúisis"
 
 msgctxt "forecast"
 msgid "S"
@@ -3809,7 +3809,7 @@ msgstr "Chuir an cuardach slán bac ar roinnt torthaí i gcomhair %s."
 
 #. Safe search lets you remove adult content from results on DuckDuckGo. This string is used to invite users to select the desired level of protection (e.g., strict, moderate, off)
 msgid "Safe search:"
-msgstr ""
+msgstr "Cuardach Slán"
 
 #. The name of the Samoan language
 msgctxt "language_name"
@@ -3860,7 +3860,7 @@ msgid "Scroll down and click %sView advanced settings%s"
 msgstr "Scrollaigh síos agus brúigh %sFéach na hardroghanna%s"
 
 msgid "Scroll down and click %sView advanced settings%s."
-msgstr ""
+msgstr "Scrollaigh síos agus brúigh %sFéach ar na hardsocruithe%s."
 
 msgid ""
 "Scroll down and find %sSearch in the address bar%s. Click on %sChange%s (or "
@@ -3921,10 +3921,10 @@ msgstr "Cuardaigh an Ceantar Seo"
 
 msgctxt "settings"
 msgid "Search Visibility"
-msgstr ""
+msgstr "Infheictheacht an chuardaigh"
 
 msgid "Search and browse privately with the DuckDuckGo app."
-msgstr ""
+msgstr "Cuardaigh agus déan cúrsáil go príobháideach le feidhmchláirín DuckDuckGo."
 
 msgctxt "feedback form"
 msgid "Search box"
@@ -4088,7 +4088,7 @@ msgstr "Roghnaigh DuckDuckGo!"
 #. Title text for a modal window allowing the user to choose a language
 msgctxt "translations_module"
 msgid "Select Language"
-msgstr ""
+msgstr "Roghnaigh Teanga"
 
 msgctxt "precise_user_location"
 msgid "Select Settings > Location."
@@ -4112,12 +4112,12 @@ msgstr "Seol aiseolas i gcomhair:"
 #. The name of the Serbian (Cyrillic) language
 msgctxt "language_name"
 msgid "Serbian (Cyrillic)"
-msgstr ""
+msgstr "Seirbis (Coireallach)"
 
 #. The name of the Serbian (Latin) language
 msgctxt "language_name"
 msgid "Serbian (Latin)"
-msgstr ""
+msgstr "Seirbis (Laidineach)"
 
 msgid "Set DuckDuckGo as your %sdefault search engine"
 msgstr "Socraigh DuckDuckGo mar d'inneall cuardaigh %sréamhshocraithe"
@@ -4222,7 +4222,7 @@ msgstr "Taispeáin tuilleadh"
 #. Then - http://i.imgur.com/nOvjdKb.png
 msgctxt "settings"
 msgid "Show Passphrase"
-msgstr ""
+msgstr "Taispeáin an nath faire"
 
 #. Shows details of a step-by-step navigation route
 msgctxt "directions"
@@ -4265,7 +4265,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Shows horizontal lines at result page breaks"
-msgstr ""
+msgstr "Taispeánann sé línte cothrománacha ag bristí ar leathanaigh na dtorthaí"
 
 msgctxt "settings"
 msgid "Shows links to instructions for how to add DuckDuckGo to your browser"
@@ -4303,7 +4303,7 @@ msgstr ""
 
 msgctxt "settings"
 msgid "Shows the full URL for each result"
-msgstr ""
+msgstr "Taispeánann sé URL iomlán i gcomhair gach toradh"
 
 msgctxt "settings"
 msgid "Shows the privacy benefits of using DuckDuckGo on the homepage"
@@ -4344,7 +4344,7 @@ msgstr "Méid:"
 #. The name of the Slovak language
 msgctxt "language_name"
 msgid "Slovak"
-msgstr ""
+msgstr "Slovaicis"
 
 msgid "Slovakia"
 msgstr "An tSlóvaic"
@@ -4355,7 +4355,7 @@ msgstr "An tSlóivéin"
 #. The name of the Slovenian language
 msgctxt "language_name"
 msgid "Slovenian"
-msgstr ""
+msgstr "Slóivéinis"
 
 #. http://i.imgur.com/JDDRzkk.png
 msgctxt "settingsvalue"
@@ -4385,7 +4385,7 @@ msgstr "Faraor, níl aon toradh anseo."
 #. Text of a tooltip displayed when the user has cleared source text
 msgctxt "translations_module"
 msgid "Source text cleared"
-msgstr ""
+msgstr "Glanadh an téacs foinseach"
 
 #. https://duckduckgo.com/params under Interface Settings.in the end. It is a header
 msgid "Source:"
@@ -4403,7 +4403,7 @@ msgstr "An Spáin (ca)"
 #. The name of the Spanish language
 msgctxt "language_name"
 msgid "Spanish"
-msgstr ""
+msgstr "Spáinnis"
 
 msgctxt "showcase_spread"
 msgid "Spread DuckDuckGo"
@@ -4416,7 +4416,7 @@ msgstr "Cearnógach"
 #. Shown in video filtering. https://duckduckgo.com/?q=videos+of+cats&iax=videos&ia=videos
 msgctxt "video-resolution"
 msgid "Standard definition"
-msgstr ""
+msgstr "An ghnáthghléine"
 
 msgid "Start searching!"
 msgstr "Tosaigh ag cuardach!"
@@ -4461,7 +4461,7 @@ msgstr "Glac síntiús"
 
 msgctxt "settings"
 msgid "Suggest Different Passphrase"
-msgstr ""
+msgstr "Mol nath faire éagsúil"
 
 #. http://i.imgur.com/BMM6X3h.png
 msgctxt "settings"
@@ -4470,7 +4470,7 @@ msgstr ""
 
 msgctxt "directions"
 msgid "Suggestions:"
-msgstr ""
+msgstr "Moltaí:"
 
 msgctxt "noresults"
 msgid "Suggestions:"
@@ -4497,7 +4497,7 @@ msgstr ""
 #. Descriptive text for a button that allows users to swap origin and translated languages
 msgctxt "translations_module"
 msgid "Swap languages"
-msgstr ""
+msgstr "Athraigh teangacha"
 
 msgid "Sweden"
 msgstr "An tSualainn"
@@ -4505,7 +4505,7 @@ msgstr "An tSualainn"
 #. The name of the Swedish language
 msgctxt "language_name"
 msgid "Swedish"
-msgstr ""
+msgstr "Sualainnis"
 
 msgctxt "homepage onboarding"
 msgid "Switch to DuckDuckGo and take back your privacy!"
@@ -4562,7 +4562,7 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Tap the vertical dots in the DuckDuckGo app."
-msgstr ""
+msgstr "Cnag ar na poncanna ingearacha i bhfeidhmchláirín DuckduckGo."
 
 msgctxt "color"
 msgid "Teal"
@@ -4594,7 +4594,7 @@ msgstr "Téacs:"
 #. The name of the Thai language
 msgctxt "language_name"
 msgid "Thai"
-msgstr ""
+msgstr "Téalainnis"
 
 msgid "Thailand"
 msgstr "An Téalainn"
@@ -4803,7 +4803,7 @@ msgstr ""
 
 msgctxt "precise_user_location"
 msgid "Try setting your location manually."
-msgstr ""
+msgstr "Féach mar a bhfuil tú a shocrú tú féin de láimh."
 
 msgid "Try the DuckDuckGo app"
 msgstr "Bain feidhm as feidhmchláirín DuckDuckGo"
@@ -4822,7 +4822,7 @@ msgstr "An Tuirc"
 #. The name of the Turkish language
 msgctxt "language_name"
 msgid "Turkish"
-msgstr ""
+msgstr "Tuircis"
 
 #. For safe search, "Turn off: [temporarily] [permanently]"
 msgid "Turn off:"
@@ -4864,7 +4864,7 @@ msgstr "SAM-bhunaithe (puint, troithe, Fahrenheit)"
 #. The name of the Ukrainian language
 msgctxt "language_name"
 msgid "Ukrainian"
-msgstr ""
+msgstr "Úcráinis"
 
 #. I haven't Translated the links under %s because that will come from Chrome Browser...
 msgid ""
@@ -4938,12 +4938,12 @@ msgstr "Nuashonraigh é"
 
 msgctxt "precise_user_location"
 msgid "Update Location"
-msgstr ""
+msgstr "Nuashonraigh an suíomh"
 
 #. Waiting for the device to send an updated location
 msgctxt "precise_user_location"
 msgid "Updating location..."
-msgstr ""
+msgstr "Tá an suíomh á nuashonrú..."
 
 msgctxt "new user poll"
 msgid "Upgrading to full-time user"
@@ -4952,7 +4952,7 @@ msgstr "Ag uasghrádú chuig úsáideoir lánaimseartha"
 #. The name of the Urdu language
 msgctxt "language_name"
 msgid "Urdu"
-msgstr ""
+msgstr "Urdúis"
 
 #. This is a verb and will be concatenated with a noun in dropdown boxes, e.g. "Use xyz". The text was previously "Using".
 msgid "Use"
@@ -5002,7 +5002,7 @@ msgstr "Vítneam"
 #. The name of the Vietnamese language
 msgctxt "language_name"
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vítneamais"
 
 msgid "View File"
 msgstr "Féach ar an gcomhad"
@@ -5039,7 +5039,7 @@ msgstr "W"
 #. Waiting for the device location sensor to return data
 msgctxt "precise_user_location"
 msgid "Waiting for Location..."
-msgstr ""
+msgstr "Ag fuireach leis an suíomh..."
 
 msgctxt "directions"
 msgid "Walking"
@@ -5161,7 +5161,7 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "We use feedback like this to improve DuckDuckGo."
-msgstr ""
+msgstr "Baintear feidhm as aiseolas den chineál sin chun DuckDuckGo a fheabhsú."
 
 msgctxt "new user poll"
 msgid "We're honored to have you on the Duck Side"
@@ -5190,7 +5190,7 @@ msgstr "Fáilte go dtí DuckDuckGo!"
 #. The name of the Welsh language
 msgctxt "language_name"
 msgid "Welsh"
-msgstr ""
+msgstr "Breatnais"
 
 msgctxt "new user poll"
 msgid "What brought you back today?"
@@ -5319,7 +5319,7 @@ msgstr ""
 #. In the cloud save box - http://i.imgur.com/pVjCXmw.png
 msgctxt "cloudsave"
 msgid "You can restore your settings after deleting cookies."
-msgstr ""
+msgstr "Is féidir leat do chuid socruithe a chur ar ais i ndiaidh duit na fianáin a scriosadh."
 
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
 #. In the cloud save box -http://i.imgur.com/tABFqCY.png
