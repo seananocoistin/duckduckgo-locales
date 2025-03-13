@@ -50,7 +50,7 @@ msgstr "%s mi"
 #. This is used to add attribution to user reviews on websites, e.g. "John Doe on Yelp"
 msgctxt "maps_places"
 msgid "%s on %s"
-msgstr ""
+msgstr "%s ar %s"
 
 msgctxt "hackus"
 msgid "%s us."
@@ -68,17 +68,17 @@ msgstr "Bain feidhm as %s."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr ""
+msgstr "%s%s%s Billiún Cuardach"
 
 msgctxt "noresults"
 msgid ""
 "%sClick here%s to try again, if you think there should be results for this "
 "search."
-msgstr ""
+msgstr "%sBrúigh anse%s chun é a fhéachaint arís, má cheapann tú gur cheart go mbeadh torthaí ann i gcomhair seo."
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%sCuidigh linn DuckDuckGo a scaipeadh!"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
@@ -143,7 +143,7 @@ msgstr "Tá an fógra míchuí"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr "Tá an fógra neamhábhartha"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
@@ -659,7 +659,7 @@ msgid "Child sexual abuse"
 msgstr ""
 
 msgid "Chile"
-msgstr ""
+msgstr "An tSile"
 
 msgid "China"
 msgstr "An tSín"
@@ -689,7 +689,7 @@ msgid "Clear"
 msgstr "Glan"
 
 msgid "Clear All"
-msgstr "Glan Gach Rud"
+msgstr "Glan Uile"
 
 msgid "Clear Region"
 msgstr "Glan an Chríoch"
@@ -897,7 +897,7 @@ msgstr ""
 "buan trí fhocal faire a chur isteach. Is é do rogha."
 
 msgid "Colombia"
-msgstr ""
+msgstr "An Cholóim"
 
 #. Instant Answer tab name
 msgid "Color"
@@ -968,7 +968,7 @@ msgstr ""
 
 #. Instant Answer Tab Name
 msgid "Coupons"
-msgstr "Cúpóin"
+msgstr "Gearrtháin"
 
 msgctxt "video-license"
 msgid "Creative Commons"
@@ -986,7 +986,7 @@ msgid "Currency"
 msgstr "Airgeadra"
 
 msgid "Current Region:"
-msgstr "An Críoch Reatha:"
+msgstr "An Chríoch Reatha:"
 
 #. http://i.imgur.com/n6W3M3I.png
 msgctxt "settings"
@@ -1105,18 +1105,18 @@ msgid "Dismiss"
 msgstr "Ná bac leis"
 
 msgid "Dismiss forever"
-msgstr ""
+msgstr "Ruaig é seo go deo"
 
 msgctxt "SERP footer content"
 msgid "Don't Track Us"
-msgstr ""
+msgstr "Ná Lean Sinn"
 
 msgctxt "safe search"
 msgid "Don't filter adult content"
-msgstr ""
+msgstr "Ná scag ábhar do dhaoine fásta"
 
 msgid "Don't see DuckDuckGo in the list?"
-msgstr ""
+msgstr "Nach bhfeiceann tú DuckDuckGo ar an liosta?"
 
 msgctxt "install-extension"
 msgid "Don't see it? %s%s%sClick here to re-download%s"
@@ -1363,7 +1363,7 @@ msgid "Fine-tune Your Search"
 msgstr ""
 
 msgid "Finland"
-msgstr ""
+msgstr "An Fhionlainn"
 
 #. Instant Answer Tab Name
 msgid "Flights"
@@ -1371,7 +1371,7 @@ msgstr "Eililtí"
 
 msgctxt "new user poll"
 msgid "Following us on Twitter"
-msgstr ""
+msgstr "Dár leanúint ar Twitter"
 
 #. http://i.imgur.com/JWnlmmo.png
 msgctxt "settings"
@@ -1620,7 +1620,7 @@ msgstr "Conas mar atá sé anaithnid?"
 
 msgctxt "forecast"
 msgid "Humidity"
-msgstr ""
+msgstr "Bogthaise"
 
 msgid "Hungary"
 msgstr "An Ungáir"
@@ -1745,13 +1745,13 @@ msgid "Including results for %s."
 msgstr "Lena n-áirítear torthaí i gcomhair %s."
 
 msgid "India"
-msgstr ""
+msgstr "An India"
 
 msgid "Indonesia"
-msgstr ""
+msgstr "An Indinéis"
 
 msgid "Indonesia (en)"
-msgstr ""
+msgstr "An Indinéis (en)"
 
 #. http://i.imgur.com/7VuBXGO.png
 #. This setting used to be called 'Auto-Load'
@@ -1771,11 +1771,11 @@ msgstr "Suiteáil"
 
 msgctxt "homepage onboarding"
 msgid "Install DuckDuckGo"
-msgstr ""
+msgstr "Suiteáil DuckDuckGo"
 
 msgctxt "settings"
 msgid "Install DuckDuckGo"
-msgstr ""
+msgstr "Suiteáil DuckDuckGo"
 
 #. On the homepage, after clicking "use in Safari" http://i.imgur.com/rhp7iTI.png
 msgid "Install DuckDuckGo Safari Extension?"
@@ -1804,10 +1804,10 @@ msgstr "Socruithe an Chomhéadain"
 
 msgctxt "homepage onboarding"
 msgid "Invite friends to the Duck Side!"
-msgstr ""
+msgstr "Tabhair cuireadh do do chairde teacht chuig Duck!"
 
 msgid "Ireland"
-msgstr ""
+msgstr "Éire"
 
 #. Title for information about this question. The answer is only <strong>YES</strong>.
 #. From <a href="https://duckduckgo.com/settings.html">settings page</a>. 
@@ -1821,7 +1821,7 @@ msgid "Is someone working on your zero-click plugin?"
 msgstr "An bhfuil duine éigin ag obair ar bhur mbreiseán neamh-bhrúigh?"
 
 msgid "Israel"
-msgstr ""
+msgstr "Iosrael"
 
 #. https://duckduckgo.com/settings near the bottom, under "Cloud Save", by clicking "What's this", under "How does passphrase generation work?"
 msgctxt "cloudsave"
@@ -1838,13 +1838,13 @@ msgid ""
 msgstr ""
 
 msgid "Italy"
-msgstr ""
+msgstr "An Iodáil"
 
 msgid "Items"
 msgstr "Míreanna"
 
 msgid "Japan"
-msgstr ""
+msgstr "An tSeapáin"
 
 #. Instant Answer Tab Name (below the search box, above the results) 
 msgid "Jobs"
@@ -1859,7 +1859,7 @@ msgid "Join our $500,000 Privacy Challenge"
 msgstr ""
 
 msgid "Keep in Touch"
-msgstr ""
+msgstr "Fan i dteagmháil linn"
 
 msgid "Keep your search history private and minimize ad targeting."
 msgstr ""
@@ -1874,7 +1874,7 @@ msgid "Keyboard Shortcuts"
 msgstr "Aicearraí an mhéarchláir"
 
 msgid "Korea"
-msgstr ""
+msgstr "An Chóiré"
 
 #. http://i.imgur.com/L74c87B.png 
 #. Adjusts the displayed language of DuckDuckGo (translations)
@@ -1914,7 +1914,7 @@ msgid "Largest"
 msgstr "Is mó"
 
 msgid "Latvia"
-msgstr ""
+msgstr "An Laitvia"
 
 #. Button that opens more informations in the new messagebox suggesting to add DDG, in the homepage.
 msgid "Learn %sMore%s"
@@ -1936,7 +1936,7 @@ msgstr ""
 
 msgctxt "SERP footer content"
 msgid "Learn About DuckDuckGo"
-msgstr ""
+msgstr "Cuir eolas ar DuckDuckGo"
 
 msgctxt "showcase_bangs"
 msgid "Learn about Bangs"
@@ -1976,11 +1976,11 @@ msgid "Left"
 msgstr "Clé"
 
 msgid "Legal"
-msgstr ""
+msgstr "Eolas Dlíthiúil"
 
 msgctxt "video-duration"
 msgid "Less than 4 minutes"
-msgstr ""
+msgstr "Níos giorra ná 4 nóiméid"
 
 #. Discontinued, don't translate
 msgid "Light blue"
@@ -2003,7 +2003,7 @@ msgid "Listen"
 msgstr "Éist"
 
 msgid "Lithuania"
-msgstr ""
+msgstr "An Liotuáin"
 
 #. http://i.imgur.com/1LeciXQ.png
 msgctxt "settings"
@@ -2041,11 +2041,11 @@ msgstr "Luchtaíonn sé tuilleadh torthaí fad is atá ag scrollú"
 
 msgctxt "settings"
 msgid "Location"
-msgstr ""
+msgstr "Suíomh"
 
 msgctxt "video-duration"
 msgid "Long"
-msgstr ""
+msgstr "Fada"
 
 #. in https://duckduckgo.com/params
 #. bold header
@@ -2058,7 +2058,7 @@ msgstr "An áil leat DuckDuckGo?"
 
 msgctxt "noresults"
 msgid "Make sure all words are spelled correctly."
-msgstr ""
+msgstr "Cinntigh go litrítear i gceart gach focal."
 
 msgid "Make sure to check %s\"Make this my default search provider\"%s"
 msgstr ""
@@ -2084,7 +2084,7 @@ msgstr "Léarscáileanna"
 
 msgctxt "feedback form"
 msgid "Maps"
-msgstr ""
+msgstr "Léarscáileanna"
 
 msgctxt "feedback form"
 msgid "Maps / Location Info"
@@ -2101,16 +2101,16 @@ msgstr "Sainbhríonna"
 
 msgctxt "settingsvalue"
 msgid "Medium"
-msgstr "Meánach"
+msgstr "Meánmhéadach"
 
 #. http://i.imgur.com/Gy9D9Bx.png
 msgctxt "size"
 msgid "Medium"
-msgstr "Meánach"
+msgstr "Meánmhéadach"
 
 msgctxt "video-duration"
 msgid "Medium"
-msgstr ""
+msgstr "Meánmhéadach"
 
 #. Header for front page menu
 msgid "Menu"
@@ -2118,14 +2118,14 @@ msgstr "Roghchlár"
 
 msgctxt "maps_places"
 msgid "Menu"
-msgstr ""
+msgstr "Roghchlár"
 
 msgctxt "settingsvalue"
 msgid "Metric (Kilograms, Meters, Celsius)"
 msgstr "Méadrach (Cileagraim, Méadair, Celsius)"
 
 msgid "Mexico"
-msgstr ""
+msgstr "Meicsiceo"
 
 #. Discontinued, don't translate
 msgctxt "placement"
@@ -2138,11 +2138,11 @@ msgstr ""
 
 msgctxt "safe search"
 msgid "Moderate"
-msgstr ""
+msgstr "Measartha"
 
 msgctxt "settingsvalue"
 msgid "Moderate"
-msgstr ""
+msgstr "Measartha"
 
 #. Used to point to additional social networking profiles (in results).
 msgid "More"
@@ -2171,7 +2171,7 @@ msgid "More News"
 msgstr "Tuilleadh Nuachta"
 
 msgid "More Places"
-msgstr ""
+msgstr "Tuilleadh Áiteanna"
 
 msgid "More Related Topics"
 msgstr "Tuilleadh Ábhair Ghaolmhara"
@@ -2211,7 +2211,7 @@ msgstr "Tuilleadh torthaí"
 
 msgctxt "video-duration"
 msgid "More than 20 minutes"
-msgstr ""
+msgstr "Breis agus 20 nóiméid"
 
 #. e.g. More ways to add DuckDuckGo to Firefox
 msgctxt "frontpage"
@@ -2264,7 +2264,7 @@ msgid "Need ideas? Try %s."
 msgstr "An bhfuil smaointe nua de dhíth ort? Bain triail as %s."
 
 msgid "Netherlands"
-msgstr ""
+msgstr "An Ísiltír"
 
 msgid "New Zealand"
 msgstr ""
@@ -2294,7 +2294,7 @@ msgstr "Nuacht"
 
 #. http://i.imgur.com/1QgHl7k.png
 msgid "News Articles"
-msgstr "Ailt nuachta"
+msgstr "Ailt Nuachta"
 
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
@@ -2375,18 +2375,18 @@ msgid "Normal"
 msgstr "Gnáth"
 
 msgid "Norway"
-msgstr ""
+msgstr "An Iorua"
 
 msgctxt "settingsvalue"
 msgid "Not Set"
-msgstr ""
+msgstr "Gan Socrú"
 
 msgid "Not many results contain %s."
 msgstr "Níl a lán torthaí ann ina bhfuil %s."
 
 msgctxt "Report image modal"
 msgid "Not relevant"
-msgstr ""
+msgstr "Níl sé ábhartha"
 
 #. Instant Answer tab name
 msgid "Nutrition"
@@ -2397,7 +2397,7 @@ msgstr "Tá go maith"
 
 msgctxt "mobile promotion on desktop"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Tá go maith!"
 
 msgid "Off"
 msgstr "As"
@@ -2817,7 +2817,7 @@ msgstr "Cosain do phríobháideachas"
 
 msgctxt "showcase_app"
 msgid "Protect your data on every device."
-msgstr ""
+msgstr "Cosain do chuid sonraí ar gach gléas."
 
 #. Used for various color settings  query parameters values captions into <a =href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Purple"
@@ -2880,7 +2880,7 @@ msgstr "Reddit"
 
 msgctxt "settings"
 msgid "Redirect (when necessary)"
-msgstr ""
+msgstr "Atreoraigh (nuair is gá)"
 
 msgid "Redirect:"
 msgstr "Atreoraigh:"
@@ -3410,7 +3410,7 @@ msgstr ""
 
 msgctxt "noresults"
 msgid "Show web results"
-msgstr ""
+msgstr "Taispeáin torthaí gréasáin"
 
 msgctxt "settings"
 msgid "Show welcome message on top of the search results page"
@@ -3637,7 +3637,7 @@ msgid "Switzerland (it)"
 msgstr ""
 
 msgid "TV"
-msgstr "Cianamharcaíocht"
+msgstr "Teilifís"
 
 msgid "Taiwan"
 msgstr ""
@@ -3687,7 +3687,7 @@ msgstr "Go raibh maith agat"
 
 msgctxt "homepage onboarding"
 msgid "Thank you."
-msgstr ""
+msgstr "Go raibh maith agat."
 
 msgctxt "Lock icon next to HTTP search result"
 msgid ""
@@ -4134,7 +4134,7 @@ msgstr "Ní leanaimid do lorg."
 
 msgctxt "reasons-to-use-duckduckgo"
 msgid "We don't track you. Ever."
-msgstr ""
+msgstr "Ní leanaimid do lorg. Riamh."
 
 msgctxt "homepage onboarding"
 msgid "We don’t follow you around with ads."
@@ -4266,7 +4266,7 @@ msgstr "Cad Chuige Príobháideachas"
 
 msgctxt "image-layout"
 msgid "Wide"
-msgstr ""
+msgstr "Leathan"
 
 #. http://i.imgur.com/twR2utt.png
 msgctxt "settingsvalue"
@@ -4309,7 +4309,7 @@ msgstr "Scriostar"
 
 msgctxt "new user poll"
 msgid "Yes, new user!"
-msgstr ""
+msgstr "Úsáideoir nua!"
 
 #. Option for the filter-by-date search.
 msgid "Yesterday"
@@ -4384,7 +4384,7 @@ msgstr "Léiríonn an líonléitheoir agat má tá cuairt tugtha agat ar an nasc
 
 msgctxt "homepage ATB modal"
 msgid "Your data shouldn’t be for sale."
-msgstr ""
+msgstr "Níor cheart go mbeadh do chuid sonraí ar díol."
 
 msgctxt "newsletter email collection"
 msgid ""
